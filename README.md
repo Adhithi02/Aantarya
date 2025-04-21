@@ -1,3 +1,0 @@
-# Aantarya
-DTL project
-"# Aantarya" 
