@@ -29,7 +29,8 @@ cd Aantarya
 Navigate into the React source code folder:
 
 ```bash
-cd src
+cd "Aantarya-main /Aantarya-main"
+
 ```
 
 ---
