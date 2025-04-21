@@ -18,18 +18,18 @@ Ensure you have the following installed:
 ## 📁 Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/YourUsername/Aantarya.git
-cd Aantarya
+git clone https://github.com/Adhithi02/Aantarya.git
+cd Aantarya-main
 ```
 
 ---
 
-## 📂 Step 2: Open the Frontend Source Folder
+## 📂 Step 2: Open the Frontend Folder
 
-Navigate into the React source code folder:
+Navigate into the React Frontend code folder:so once again
 
 ```bash
-cd "Aantarya-main /Aantarya-main"
+cd Aantarya-main
 
 ```
 
