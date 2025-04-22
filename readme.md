@@ -16,7 +16,7 @@ Aantarya solves a real-world problem: helping **non-locals** immerse themselves 
 
 ---
 
-## 🔥 Features
+## ✨Features✨
 
 ### 🏙️ Local Section
 - Cultural trivia quizzes in 4 categories:
