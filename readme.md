@@ -1,8 +1,6 @@
-# ✨ Aantarya: Digital Pathways – Bridging Bengaluru’s Culture
+# 🌆 Aantarya – Bridging Cultures Through Digital Exploration
 
-Welcome to **Aantarya**, a web app built to **connect outsiders to the local world of Bengaluru** through culture, cuisine, and community — all powered by tech like **Augmented Reality**, **interactive quizzes**, and **language tools**.
-
-> _"Where heritage meets innovation — explore, learn, and connect!"_
+**Aantarya** is a culturally immersive web platform built under the theme of **Digital Humanities**, designed to connect **locals and non-locals in Bengaluru** through interactive tools, AR navigation, quizzes, and language support. Whether you're a tourist, a student, or a city resident, Aantarya makes urban exploration personal, meaningful, and memorable.
 
 ---
 
@@ -13,6 +11,14 @@ Aantarya solves a real-world problem: helping **non-locals** immerse themselves 
 - **Locals** engage in interactive quizzes that promote cultural pride.
 - **Non-locals** explore the city with **Kannada basics**, **AR previews**, and **cultural tips**.
 - **Shared features** ensure both groups enjoy **storied landmarks**, **authentic eateries**, and **immersive experiences**.
+
+---
+## 🎯 Project Goals
+
+- Promote cultural immersion and inclusion
+- Celebrate Bengaluru’s rich heritage and cuisine
+- Offer multilingual support for seamless local experiences
+- Use technology (AR, Street View, TTS) to bring culture to life
 
 ---
 
@@ -57,3 +63,6 @@ Aantarya solves a real-world problem: helping **non-locals** immerse themselves 
 ## 🚀 Quick Start
 
 For further details visit **installation_setup.md**
+
+## 🌟 Explore, Experience & Embrace Bengaluru with Aantarya!
+## Detailed report of the project :👉 [**Click to view REPORT.pdf**](./REPORT.pdf)
