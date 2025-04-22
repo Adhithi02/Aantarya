@@ -56,4 +56,4 @@ Aantarya solves a real-world problem: helping **non-locals** immerse themselves 
 
 ## 🚀 Quick Start
 
--For further details visit **installation _setup.md**
+For further details visit **installation_setup.md**
