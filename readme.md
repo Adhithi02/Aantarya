@@ -66,3 +66,5 @@ For further details visit **installation_setup.md**
 
 ## 🌟 Explore, Experience & Embrace Bengaluru with Aantarya!
 ## Detailed report of the project :👉 [**Click to view REPORT.pdf**](./REPORT.pdf)
+
+## Link to access the web application : https://aantarya-rvce.netlify.app/
